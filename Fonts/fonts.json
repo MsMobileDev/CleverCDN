@@ -1,0 +1,19 @@
+{
+  "fonts": [
+    {
+      "name": "NewYorkMedium-Regular",
+      "path": "NewYorkMedium-Regular.otf",
+      "md5": "2ae76bd3403a80ae99312a9f93fe27d8"
+    },
+    {
+      "name": "SF-Pro-Display-Regular",
+      "path": "SF-Pro-Display-Regular.otf",
+      "md5": "5810cdf5bc7db8d0090a6c46890ee33b"
+    },
+    {
+      "name": "SF-Mono-Bold",
+      "path": "SF-Mono-Bold.otf",
+      "md5": "2520a08abb30790e9bd684c88925dec3"
+    }
+  ]
+}
